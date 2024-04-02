@@ -1,722 +1,4103 @@
 [
-    {
-      "code": "TNTI",
-      "lat": "0.7718",
-      "long": "127.3667",
-      "elevation": "43",
-      "name": "GEOFON Station GEOFON Station Ternate, Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 3.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "TOLI",
-      "lat": "1.1214",
-      "long": "120.7944",
-      "elevation": "86",
-      "name": "GEOFON Station GEOFON Station Tolitoli, Sulawesi",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 2.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "GENI",
-      "lat": "-2.5927",
-      "long": "140.1678",
-      "elevation": "47",
-      "name": "GEOFON Station Genyem, Irian Jaya Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "PMBI",
-      "lat": "-2.9024",
-      "long": "104.6993",
-      "elevation": "25",
-      "name": "GEOFON Station Palembang, Sumatra",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "BKB",
-      "lat": "-1.1073",
-      "long": "116.9048",
-      "elevation": "110",
-      "name": "GEOFON Station GEOFON Station Balikpapan, Kalimantan",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "SOEI",
-      "lat": "-9.7553",
-      "long": "124.2672",
-      "elevation": "1047",
-      "name": "GEOFON Station GEOFON Station Soe, Timor",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "SANI",
-      "lat": "-2.0496",
-      "long": "125.9881",
-      "elevation": "30",
-      "name": "GEOFON Station Sanana, Moluccas, Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 2.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "MMRI",
-      "lat": "-8.6357",
-      "long": "122.2376",
-      "elevation": "137",
-      "name": "GEOFON Station GEOFON Station Maumere, Flores",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 3.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "PMBT",
-      "lat": "-2.927",
-      "long": "104.772",
-      "elevation": "30",
-      "name": "GEOFON Station Palembang, Sumatra, Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "TOLI2",
-      "lat": "1.11119",
-      "long": "120.78174",
-      "elevation": "51",
-      "name": "GEOFON Station Tolitoli, Sulawesi, Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 2.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "BKNI",
-      "lat": "0.3262",
-      "long": "101.0396",
-      "elevation": "65",
-      "name": "GEOFON Station GEOFON Station Bangkinang, Sumatra",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 3.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "UGM",
-      "lat": "-7.9125",
-      "long": "110.5231",
-      "elevation": "350",
-      "name": "GEOFON Station Wanagama, Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 2.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "FAKI",
-      "lat": "-2.91925",
-      "long": "132.24889",
-      "elevation": "136",
-      "name": "GEOFON Station GEOFON Station Fak Fak, Irian Jaya",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "CISI",
-      "lat": "-7.5557",
-      "long": "107.8153",
-      "elevation": "544",
-      "name": "GEOFON Station GEOFON Station Cisomped, Java",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "BNDI",
-      "lat": "-4.5224",
-      "long": "129.9045",
-      "elevation": "16",
-      "name": "GEOFON Station Bandaneira, Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 2.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "PLAI",
-      "lat": "-8.8275",
-      "long": "117.7765",
-      "elevation": "125",
-      "name": "GEOFON Station Plampang, Sumbawa, Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "MNAI",
-      "lat": "-4.3605",
-      "long": "102.9557",
-      "elevation": "154",
-      "name": "GEOFON Station GEOFON Station Manna, Sumatra",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 3.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "GSI",
-      "lat": "1.3039",
-      "long": "97.5755",
-      "elevation": "107",
-      "name": "GEOFON Station Gunungsitoli, Nias",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "SMRI",
-      "lat": "-7.04915",
-      "long": "110.44067",
-      "elevation": "203",
-      "name": "GEOFON Station GEOFON Station Semarang, Java",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 3.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 3.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "SAUI",
-      "lat": "-7.9826",
-      "long": "131.2988",
-      "elevation": "110",
-      "name": "GEOFON Station Saumlaki, Tanimbar, Indonesia",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "YOGI",
-      "lat": "-7.8166",
-      "long": "110.2949",
-      "elevation": "160",
-      "name": "GEOFON Station Yogyakarta, Java",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "LHMI",
-      "lat": "5.2288",
-      "long": "96.9472",
-      "elevation": "3",
-      "name": "GEOFON Station GEOFON Station Lhokseumave, Sumatra",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "LUWI",
-      "lat": "-1.0418",
-      "long": "122.7717",
-      "elevation": "6",
-      "name": "GEOFON Station GEOFON Station Lhokseumave, Sulawesi",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 2.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 2.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    },
-    {
-      "code": "JAGI",
-      "lat": "-8.4702",
-      "long": "114.1521",
-      "elevation": "171",
-      "name": "GEOFON Station GEOFON Station Jajag, Java",
-      "channels": [
-        {
-          "code": "BHN",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHE",
-          "depth": 0.0,
-          "azimuth": 90.0,
-          "dip": 0.0,
-          "sample_rate": 20.0
-        },
-        {
-          "code": "BHZ",
-          "depth": 0.0,
-          "azimuth": 0.0,
-          "dip": -90.0,
-          "sample_rate": 20.0
-        }
-      ]
-    }
-  ]
+  {
+    "code": "TNTI",
+    "lat": "0.7718",
+    "long": "127.3667",
+    "elevation": "43",
+    "name": "GEOFON Station GEOFON Station Ternate, Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 3.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "TOLI",
+    "lat": "1.1214",
+    "long": "120.7944",
+    "elevation": "86",
+    "name": "GEOFON Station GEOFON Station Tolitoli, Sulawesi",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 2.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "GENI",
+    "lat": "-2.5927",
+    "long": "140.1678",
+    "elevation": "47",
+    "name": "GEOFON Station Genyem, Irian Jaya Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "PMBI",
+    "lat": "-2.9024",
+    "long": "104.6993",
+    "elevation": "25",
+    "name": "GEOFON Station Palembang, Sumatra",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "BKB",
+    "lat": "-1.1073",
+    "long": "116.9048",
+    "elevation": "110",
+    "name": "GEOFON Station GEOFON Station Balikpapan, Kalimantan",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "SOEI",
+    "lat": "-9.7553",
+    "long": "124.2672",
+    "elevation": "1047",
+    "name": "GEOFON Station GEOFON Station Soe, Timor",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "SANI",
+    "lat": "-2.0496",
+    "long": "125.9881",
+    "elevation": "30",
+    "name": "GEOFON Station Sanana, Moluccas, Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 2.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "MMRI",
+    "lat": "-8.6357",
+    "long": "122.2376",
+    "elevation": "137",
+    "name": "GEOFON Station GEOFON Station Maumere, Flores",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 3.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "PMBT",
+    "lat": "-2.927",
+    "long": "104.772",
+    "elevation": "30",
+    "name": "GEOFON Station Palembang, Sumatra, Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "TOLI2",
+    "lat": "1.11119",
+    "long": "120.78174",
+    "elevation": "51",
+    "name": "GEOFON Station Tolitoli, Sulawesi, Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 2.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "BKNI",
+    "lat": "0.3262",
+    "long": "101.0396",
+    "elevation": "65",
+    "name": "GEOFON Station GEOFON Station Bangkinang, Sumatra",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 3.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "UGM",
+    "lat": "-7.9125",
+    "long": "110.5231",
+    "elevation": "350",
+    "name": "GEOFON Station Wanagama, Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 2.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "FAKI",
+    "lat": "-2.91925",
+    "long": "132.24889",
+    "elevation": "136",
+    "name": "GEOFON Station GEOFON Station Fak Fak, Irian Jaya",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "CISI",
+    "lat": "-7.5557",
+    "long": "107.8153",
+    "elevation": "544",
+    "name": "GEOFON Station GEOFON Station Cisomped, Java",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "BNDI",
+    "lat": "-4.5224",
+    "long": "129.9045",
+    "elevation": "16",
+    "name": "GEOFON Station Bandaneira, Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 2.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "PLAI",
+    "lat": "-8.8275",
+    "long": "117.7765",
+    "elevation": "125",
+    "name": "GEOFON Station Plampang, Sumbawa, Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "MNAI",
+    "lat": "-4.3605",
+    "long": "102.9557",
+    "elevation": "154",
+    "name": "GEOFON Station GEOFON Station Manna, Sumatra",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 3.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "GSI",
+    "lat": "1.3039",
+    "long": "97.5755",
+    "elevation": "107",
+    "name": "GEOFON Station Gunungsitoli, Nias",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "SMRI",
+    "lat": "-7.04915",
+    "long": "110.44067",
+    "elevation": "203",
+    "name": "GEOFON Station GEOFON Station Semarang, Java",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 3.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 3.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "SAUI",
+    "lat": "-7.9826",
+    "long": "131.2988",
+    "elevation": "110",
+    "name": "GEOFON Station Saumlaki, Tanimbar, Indonesia",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "YOGI",
+    "lat": "-7.8166",
+    "long": "110.2949",
+    "elevation": "160",
+    "name": "GEOFON Station Yogyakarta, Java",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "LHMI",
+    "lat": "5.2288",
+    "long": "96.9472",
+    "elevation": "3",
+    "name": "GEOFON Station GEOFON Station Lhokseumave, Sumatra",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "LUWI",
+    "lat": "-1.0418",
+    "long": "122.7717",
+    "elevation": "6",
+    "name": "GEOFON Station GEOFON Station Lhokseumave, Sulawesi",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 2.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 2.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "code": "JAGI",
+    "lat": "-8.4702",
+    "long": "114.1521",
+    "elevation": "171",
+    "name": "GEOFON Station GEOFON Station Jajag, Java",
+    "channels": [
+      {
+        "code": "BHN",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHE",
+        "depth": 0.0,
+        "azimuth": 90.0,
+        "dip": 0.0,
+        "sample_rate": 20.0
+      },
+      {
+        "code": "BHZ",
+        "depth": 0.0,
+        "azimuth": 0.0,
+        "dip": -90.0,
+        "sample_rate": 20.0
+      }
+    ]
+  },
+  {
+    "name": "Pinon Flat Observatory, CA, USA",
+    "lat": "33.611",
+    "long": "-116.455498",
+    "code": "BPH01",
+    "elevation": "1292.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 200.0,
+        "azimuth": 90.0,
+        "depth": 2.2,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 2.2,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 2.2,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Battle Mountain, Nevada, USA",
+    "lat": "40.4314",
+    "long": "-117.221001",
+    "code": "BMN",
+    "elevation": "1594.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Z",
+    "lat": "13.8028",
+    "long": "-89.394852",
+    "code": "CEDA",
+    "elevation": "0.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Indiantown, FL, USA",
+    "lat": "27.0361",
+    "long": "-80.3618",
+    "code": "060A",
+    "elevation": "9.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "\"OBSN: [ABR01] Abrolhos, BA\"",
+    "lat": "-17.964609",
+    "long": "-38.695862",
+    "code": "ABR01",
+    "elevation": "38.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Ol Doinyo Lengai, Tanzania; colocated with TZVOLCANO",
+    "lat": "-2.7087",
+    "long": "35.9055",
+    "code": "OLDO",
+    "elevation": "1138.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Butte, Montana",
+    "lat": "46.010833",
+    "long": "-112.556667",
+    "code": "BUT",
+    "elevation": "1758.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "PASSCAL_EAST_PIER_00",
+    "lat": "34.0733",
+    "long": "-106.9193",
+    "code": "EP00",
+    "elevation": "1430.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 200.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Mackey Preserve",
+    "lat": "43.7805",
+    "long": "-85.2219",
+    "code": "CHIPP",
+    "elevation": "343.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 200.0,
+        "azimuth": 90.0,
+        "depth": 1.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 1.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 1.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Anse Bertrand, Guadeloupe",
+    "lat": "16.47438",
+    "long": "-61.48807",
+    "code": "ABD",
+    "elevation": "12.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 2.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 2.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 2.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Ann Arbor, Michigan, USA",
+    "lat": "42.3012",
+    "long": "-83.6567",
+    "code": "AAM",
+    "elevation": "172.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 80.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Acoyapa, Nicaragua",
+    "lat": "11.968",
+    "long": "-85.174004",
+    "code": "ACON",
+    "elevation": "862.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Bloomington, IN",
+    "lat": "39.1719",
+    "long": "-86.5222",
+    "code": "BLO",
+    "elevation": "246.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 80.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "COIMBRA, PORTUGAL",
+    "lat": "40.207989",
+    "long": "-8.4124",
+    "code": "COI",
+    "elevation": "140.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 4.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 4.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 4.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Central United States Seismic Observatory",
+    "lat": "36.552237",
+    "long": "-89.329702",
+    "code": "CUSSO",
+    "elevation": "91.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 200.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Akhalkalaki",
+    "lat": "41.41",
+    "long": "43.492901",
+    "code": "AKH",
+    "elevation": "1720.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Capurgana, Choco, Colombia",
+    "lat": "8.644522",
+    "long": "-77.360388",
+    "code": "CAP2",
+    "elevation": "221.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Maine Praire Water Dst",
+    "lat": "38.37706",
+    "long": "-121.842377",
+    "code": "DIX",
+    "elevation": "16.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Cap-Haitien, ND, HT",
+    "lat": "19.6976",
+    "long": "-72.1784",
+    "code": "CAPH",
+    "elevation": "24.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "GEOFON Station Apirathos, Naxos, Greece",
+    "lat": "37.068901",
+    "long": "25.5306",
+    "code": "APE",
+    "elevation": "620.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Borrego Valley Downhole Array",
+    "lat": "33.3268",
+    "long": "-116.3669",
+    "code": "BVDA1",
+    "elevation": "227.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 200.0,
+        "azimuth": 270.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 200.0,
+        "azimuth": 180.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Ahua, Hawaii Digital",
+    "lat": "19.371567",
+    "long": "-155.263462",
+    "code": "AHUD",
+    "elevation": "1051.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Adirondack Community College, Queensbury, NY",
+    "lat": "43.3843",
+    "long": "-73.6678",
+    "code": "ACCN",
+    "elevation": "340.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Morne la Rosette, Martinique, France",
+    "lat": "14.73493",
+    "long": "-61.159728",
+    "code": "FDFM",
+    "elevation": "320.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 91.5,
+        "depth": 9.4,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 1.5,
+        "depth": 9.4,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 9.4,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "St Joseph's College",
+    "lat": "-34.9995",
+    "long": "117.904602",
+    "code": "AUALB",
+    "elevation": "50.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Johnston Ridge Observatory",
+    "lat": "46.27527",
+    "long": "-122.21826",
+    "code": "JRO",
+    "elevation": "1219.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 1.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 1.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 1.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Batesville test site 1",
+    "lat": "35.79986",
+    "long": "-91.64403",
+    "code": "BAT1",
+    "elevation": "144.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "AGIOS GEORGIOS, GREECE",
+    "lat": "39.021099",
+    "long": "22.336",
+    "code": "AGG",
+    "elevation": "622.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Cookes Peak, Deming, NM, USA",
+    "lat": "32.532398",
+    "long": "-107.785103",
+    "code": "121A",
+    "elevation": "1652.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 88.2,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 358.2,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Ejido Aguascalientes",
+    "lat": "32.2658",
+    "long": "-115.1605",
+    "code": "AGSX",
+    "elevation": "0.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Acomizza",
+    "lat": "46.547901",
+    "long": "13.5149",
+    "code": "ACOM",
+    "elevation": "1715.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Amargosa Desert, Nevada w84",
+    "lat": "36.4526",
+    "long": "-116.2818",
+    "code": "AMD",
+    "elevation": "775.4",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Cooper Cave,TN",
+    "lat": "35.45",
+    "long": "-84.522",
+    "code": "CPCT",
+    "elevation": "275.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Mount Abel",
+    "lat": "34.84843",
+    "long": "-119.224965",
+    "code": "ABL",
+    "elevation": "1975.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.8,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.8,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.8,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "DSB",
+    "lat": "53.24519",
+    "long": "-6.37619",
+    "code": "DSB",
+    "elevation": "236.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Estremoz, Portugal",
+    "lat": "38.867168",
+    "long": "-7.590169",
+    "code": "PESTR",
+    "elevation": "410.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "PLSN Station Belsk, Poland",
+    "lat": "51.837002",
+    "long": "20.792",
+    "code": "BEL",
+    "elevation": "180.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Adel, OR, USA",
+    "lat": "42.16946",
+    "long": "-119.90089",
+    "code": "ADEL",
+    "elevation": "1392.46",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 1.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 1.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 1.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "BALIKESIR",
+    "lat": "39.639999",
+    "long": "27.879999",
+    "code": "BALB",
+    "elevation": "120.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Bajram Curri, Albania",
+    "lat": "42.3666",
+    "long": "20.067499",
+    "code": "BCI",
+    "elevation": "500.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 90.0
+      }
+    ]
+  },
+  {
+    "name": "Beckworth, California w84",
+    "lat": "39.8666",
+    "long": "-120.3596",
+    "code": "BEK",
+    "elevation": "1743.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Montego Bay, Jamaica",
+    "lat": "18.4055",
+    "long": "-77.86245",
+    "code": "MBJB",
+    "elevation": "554.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Arzberg, Steiermark, Austria",
+    "lat": "47.2505",
+    "long": "15.5232",
+    "code": "ARSA",
+    "elevation": "577.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 80.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Netherlands Antilles Seismic Network",
+    "lat": "17.620501",
+    "long": "-63.242599",
+    "code": "SABA",
+    "elevation": "216.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Mohawk Valley, Roll, AZ, USA",
+    "lat": "32.768299",
+    "long": "-113.766701",
+    "code": "113A",
+    "elevation": "118.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Les Verrieres",
+    "lat": "46.938011",
+    "long": "6.47298",
+    "code": "BRANT",
+    "elevation": "1145.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 120.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 120.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 120.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Albert Head, Victoria, BC, Canada",
+    "lat": "48.38985",
+    "long": "-123.487609",
+    "code": "ALBHB",
+    "elevation": "40.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 90.0
+      }
+    ]
+  },
+  {
+    "name": "Birch Farm",
+    "lat": "-40.679647",
+    "long": "176.246245",
+    "code": "BFZ",
+    "elevation": "283.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Po Shan, Hong Kong",
+    "lat": "22.277599",
+    "long": "114.141502",
+    "code": "HKPS",
+    "elevation": "196.3",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Bukit Timah Dairy Farm",
+    "lat": "1.3617",
+    "long": "103.775",
+    "code": "BTDF",
+    "elevation": "57.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 80.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Alkantpan, Northen Cape, South Africa",
+    "lat": "-29.941839",
+    "long": "22.24667",
+    "code": "ALKP",
+    "elevation": "1065.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Acton, Ontario, Canada",
+    "lat": "43.608669",
+    "long": "-80.062363",
+    "code": "ACTO",
+    "elevation": "360.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Amara-1",
+    "lat": "31.959",
+    "long": "46.9286",
+    "code": "AMR1",
+    "elevation": "9.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Chestnut Hill, MA, USA",
+    "lat": "42.335",
+    "long": "-71.1705",
+    "code": "BCX",
+    "elevation": "60.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Faro",
+    "lat": "62.22954",
+    "long": "-133.34812",
+    "code": "FARO",
+    "elevation": "0.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Caibarien, Villa Clara",
+    "lat": "22.497055",
+    "long": "-79.47097",
+    "code": "CAIB",
+    "elevation": "33.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Akutan School, Akutan Volcano, Alaska",
+    "lat": "54.1349",
+    "long": "-165.772",
+    "code": "AKT",
+    "elevation": "12.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Minicoy, Lakshadweep, India",
+    "lat": "8.281517",
+    "long": "73.059799",
+    "code": "MNC",
+    "elevation": "2.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "OVGALA_S",
+    "lat": "-0.4548",
+    "long": "-90.9701",
+    "code": "ALCE",
+    "elevation": "110.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 1.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 1.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 1.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Tasiilaq, Greenland",
+    "lat": "65.616302",
+    "long": "-37.6371",
+    "code": "ANGG",
+    "elevation": "9.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 97.5,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 7.5,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Taragai, Kyrgyzstan",
+    "lat": "41.729099",
+    "long": "77.804802",
+    "code": "TARG",
+    "elevation": "3530.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Cathedral Hills Microwave 2, AK, USA",
+    "lat": "63.3843",
+    "long": "-143.7959",
+    "code": "ALC2",
+    "elevation": "619.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Ipoh",
+    "lat": "4.4795",
+    "long": "101.025497",
+    "code": "IPM",
+    "elevation": "247.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "UPPER BIGHOUSE, SCOTLAND",
+    "lat": "58.4935",
+    "long": "-3.9087",
+    "code": "BIGH",
+    "elevation": "70.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Birdtown, Kershaw, SC, USA",
+    "lat": "34.645",
+    "long": "-80.4615",
+    "code": "BIRD",
+    "elevation": "132.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Dalat Central Vietnam",
+    "lat": "11.952",
+    "long": "108.481499",
+    "code": "DLV",
+    "elevation": "1200.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Pan de Azucar",
+    "lat": "-26.14788",
+    "long": "-70.59866",
+    "code": "AC01",
+    "elevation": "346.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Spokane Valley",
+    "lat": "47.649085",
+    "long": "-117.149717",
+    "code": "MGOO",
+    "elevation": "640.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "ACTON, ON",
+    "lat": "43.6087",
+    "long": "-80.062401",
+    "code": "ACTO",
+    "elevation": "360.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Abernathy Mountain, Cowlitz County, WA, USA",
+    "lat": "46.34275",
+    "long": "-123.09923",
+    "code": "ABER",
+    "elevation": "786.3",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 2.5,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 2.5,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 2.5,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Bald Mountain Lookout Tower, AB",
+    "lat": "54.812908",
+    "long": "-118.914902",
+    "code": "BDMTA",
+    "elevation": "935.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Dobruska/Polom",
+    "lat": "50.3502",
+    "long": "16.3222",
+    "code": "DPC",
+    "elevation": "748.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "AQUIDAUANA - MS",
+    "lat": "-20.48",
+    "long": "-55.700001",
+    "code": "AQDA",
+    "elevation": "155.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 200.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Aktyubinsk, Kazakstan",
+    "lat": "50.434799",
+    "long": "58.016701",
+    "code": "AKT",
+    "elevation": "360.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "bru2, Barilles, OSOP, Panama",
+    "lat": "8.794",
+    "long": "-82.687798",
+    "code": "BRU2",
+    "elevation": "1320.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Briggsdale, Colorado, USA",
+    "lat": "40.581287",
+    "long": "-104.319221",
+    "code": "BRIGG",
+    "elevation": "1479.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "University of Richmond, Richmond, VA",
+    "lat": "37.5709",
+    "long": "-77.535698",
+    "code": "URVA",
+    "elevation": "49.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Asbestos Mountain, Riverside CO., CA, USA",
+    "lat": "33.6208",
+    "long": "-116.4664",
+    "code": "ASBS",
+    "elevation": "1400.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Arkit, Kyrgyzstan",
+    "lat": "41.778935",
+    "long": "71.964526",
+    "code": "ARK",
+    "elevation": "1157.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "The Bluff, Cayman Brac, Cayman Islands",
+    "lat": "19.73797",
+    "long": "-79.758278",
+    "code": "CBCY",
+    "elevation": "31.5",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "East Canyon",
+    "lat": "40.92045",
+    "long": "-111.60099",
+    "code": "EACA",
+    "elevation": "1738.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 25.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 295.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Membach, Belgium",
+    "lat": "50.608691",
+    "long": "6.009614",
+    "code": "MEM",
+    "elevation": "244.3",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "TJN",
+    "lat": "36.38052",
+    "long": "127.36174",
+    "code": "TJN",
+    "elevation": "86.1",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Hilo UH Campus, Hawaii",
+    "lat": "19.7033",
+    "long": "-155.080597",
+    "code": "HILB",
+    "elevation": "35.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Chisec, Alta Verapax",
+    "lat": "15.815492",
+    "long": "-90.276573",
+    "code": "AVCS",
+    "elevation": "157.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Lisboa, Geofisico, Portugal",
+    "lat": "38.718498",
+    "long": "-9.1505",
+    "code": "GGNV",
+    "elevation": "77.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "EvK2CNR Pyramid Laboratory - Mount Everest",
+    "lat": "27.958651",
+    "long": "86.811653",
+    "code": "EVN",
+    "elevation": "5010.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Anbu",
+    "lat": "25.1828",
+    "long": "121.529198",
+    "code": "ANPB",
+    "elevation": "874.5",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 80.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "ZONDA, SAN JUAN - ARGENTINA",
+    "lat": "-31.545565",
+    "long": "-68.684265",
+    "code": "ZON",
+    "elevation": "772.6",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      }
+    ]
+  },
+  {
+    "name": "St-Roch-Des-Aulnaies, QC, CA",
+    "lat": "47.2431",
+    "long": "-70.1969",
+    "code": "A11",
+    "elevation": "55.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Police Station, Camargo, Chihuahua, Mexico",
+    "lat": "27.669399",
+    "long": "-105.1688",
+    "code": "CACH",
+    "elevation": "1386.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "HEIMANSGROEVE, NETHERLANDS",
+    "lat": "50.764",
+    "long": "5.9317",
+    "code": "HGN",
+    "elevation": "135.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 4.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 4.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 4.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Chaparral WMA",
+    "lat": "28.3236",
+    "long": "-99.3939",
+    "code": "833A",
+    "elevation": "171.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 200.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "COMITAN",
+    "lat": "16.281799",
+    "long": "-92.136803",
+    "code": "CCIG",
+    "elevation": "1625.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "ACHA",
+    "lat": "9.8278",
+    "long": "-85.247597",
+    "code": "ACHA",
+    "elevation": "140.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "BELGRANO II Permanent Argentinean Antarctic Base",
+    "lat": "-77.875",
+    "long": "-34.6269",
+    "code": "BELA",
+    "elevation": "262.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Khereethan Dam, Chanthaburi",
+    "lat": "12.7441",
+    "long": "102.3526",
+    "code": "CHBT",
+    "elevation": "198.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Z",
+    "lat": "43.667007",
+    "long": "-112.622606",
+    "code": "ARNI",
+    "elevation": "1565.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Juriquilla, Queretaro, Mexico",
+    "lat": "20.69875",
+    "long": "-100.451583",
+    "code": "JRQG",
+    "elevation": "2028.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Ames, Oklahoma, USA",
+    "lat": "36.335587",
+    "long": "-98.192787",
+    "code": "AMES",
+    "elevation": "394.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Abejonal",
+    "lat": "9.704",
+    "long": "-84.054",
+    "code": "ABE2",
+    "elevation": "1942.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "RSN Axial Base 1",
+    "lat": "45.820179",
+    "long": "-129.736694",
+    "code": "AXBA1",
+    "elevation": "-2607.2",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 200.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 200.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Antillo, Italy",
+    "lat": "37.9712",
+    "long": "15.233",
+    "code": "AIO",
+    "elevation": "751.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 80.0,
+        "azimuth": 90.0,
+        "depth": 5.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 5.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 80.0,
+        "azimuth": 0.0,
+        "depth": 5.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Floyd Central High School, Floyds Knobs, IN, USA",
+    "lat": "38.333",
+    "long": "-85.931",
+    "code": "PPNAF",
+    "elevation": "229.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "La Rabassa",
+    "lat": "42.434492",
+    "long": "1.533754",
+    "code": "ARBS",
+    "elevation": "2145.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 72.0,
+        "depth": 30.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 342.0,
+        "depth": 30.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 30.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "ROA/UCM/GEOFON Station Cartagena, Spain",
+    "lat": "37.5868",
+    "long": "-1.0012",
+    "code": "CART",
+    "elevation": "65.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 5.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 5.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 5.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "GM.AA01",
+    "lat": "39.494368",
+    "long": "-121.320827",
+    "code": "AA01",
+    "elevation": "759.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Alva, Oklahoma, USA",
+    "lat": "36.8696",
+    "long": "-98.7931",
+    "code": "ALVA",
+    "elevation": "454.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Rancho Murieta, CA",
+    "lat": "38.43026",
+    "long": "-121.10975",
+    "code": "AASB",
+    "elevation": "67.1",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 1.2,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 1.2,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 1.2,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Archaggelos, Rhodes, Greece",
+    "lat": "36.213558",
+    "long": "28.12122",
+    "code": "ARG",
+    "elevation": "148.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Isla Mocha",
+    "lat": "-38.412",
+    "long": "-73.8853",
+    "code": "BI04",
+    "elevation": "61.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 3.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 3.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 3.0,
+        "dip": -90.0
+      }
+    ]
+  },
+  {
+    "name": "Noble",
+    "lat": "39.791832",
+    "long": "-81.523888",
+    "code": "EARS",
+    "elevation": "307.0",
+    "channels": [
+      {
+        "code": "HHE",
+        "sample_rate": 100.0,
+        "azimuth": 90.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHN",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": 0.0
+      },
+      {
+        "code": "HHZ",
+        "sample_rate": 100.0,
+        "azimuth": 0.0,
+        "depth": 0.0,
+        "dip": -90.0
+      }
+    ]
+  }
+]
